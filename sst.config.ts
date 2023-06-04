@@ -10,7 +10,13 @@ export default {
 	},
 	stacks(app) {
 		app.stack(function Site({ stack }) {
-			const site = new SvelteKitSite(stack, 'site');
+			const site = new SvelteKitSite(stack, 'site', {
+				customDomain: {
+					domainName: 'crosswand.com',
+					domainAlias: 'www.crosswand.com',
+					hostedZone: 'crosswand.com',
+				},
+			});
 			stack.addOutputs({
 				url: site.url,
 			});
