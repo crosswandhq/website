@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- Favicon-->
+		<link rel="icon" href="%sveltekit.assets%/images/favicon.ico" />
+		<meta name="msapplication-TileColor" content="#000000" />
+		<meta name="theme-color" content="#000000" />
+		<!-- CSS-->
+		<link
+			rel="stylesheet"
+			href="%sveltekit.assets%/stylesheets/index.bundle.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="%sveltekit.assets%/stylesheets/libs.bundle.css"
+		/>
+		<!-- Meta Data-->
+		<meta property="og:url" content="https://www.crosswand.com" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Crosswand LLC" />
+		<meta property="og:description" content="Disrupt, create, impact" />
+		<meta
+			property="og:image"
+			content="https://d2rl869h53lu99.cloudfront.net/images/preview.png"
+		/>
+		<!-- Custom Fonts-->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap"
+			rel="stylesheet"
+		/>
+		<!-- Title-->
+		<title>Crosswand LLC</title>
+		%sveltekit.head%
+	</head>
+
+	<body data-sveltekit-preload-data="hover">
+		%sveltekit.body%
+		<script src="%sveltekit.assets%/javascripts/index.bundle.js"></script>
+		<script src="%sveltekit.assets%/javascripts/vendor.bundle.js"></script>
+		<script
+			src="https://code.jquery.com/jquery-3.6.0.min.js"
+			integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+			crossorigin="anonymous"
+		></script>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-T04RZWQ11T"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'G-T04RZWQ11T');
+		</script>
+	</body>
+</html>
