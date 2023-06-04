@@ -13,3 +13,5 @@ vite.config.ts.timestamp-*
 .sentryclirc
 *.zip
 .sst/
+# Sentry
+.sentryclirc

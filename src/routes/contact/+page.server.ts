@@ -1,4 +1,3 @@
-import * as Sentry from '@sentry/sveltekit';
 import { fail, redirect } from '@sveltejs/kit';
 import { sendContactToSlack } from '$lib/api';
 import type { Actions } from './$types';
@@ -26,7 +25,6 @@ export const actions = {
 			});
 		} catch (e) {
 			const error = e as Error;
-			Sentry.captureException(error);
 			return fail(400, { internalError: true, error: error.message });
 		}
 		throw redirect(302, '/contact/success');
