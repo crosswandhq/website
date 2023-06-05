@@ -15,7 +15,7 @@
 				<h1 class="display-2">Sorry, page not found.</h1>
 				<p>{$page.error?.message}</p>
 				<a
-					href="index.html"
+					href="/"
 					class="btn btn-rounded btn-outline-white rounded-pill"
 					>Go back to homepage</a
 				>
