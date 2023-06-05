@@ -1,6 +1,7 @@
 <script>
 	import { navigating } from '$app/stores';
 	import { applications } from '$lib/data/data';
+	import logo from '$lib/assets/images/logo.png';
 
 	function closeNav() {
 		if (document.body.classList.contains('navbar-active')) {
@@ -18,7 +19,7 @@
 	<div class="container">
 		<a class="navbar-brand" href="/">
 			<img
-				src="https://d2rl869h53lu99.cloudfront.net/images/logo.png"
+				src={logo}
 				alt="Logo"
 			/>
 		</a>
