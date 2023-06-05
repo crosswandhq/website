@@ -43,4 +43,4 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Deploy to Lambda
-        run: yarn sst deploy --stage production --verbose
+        run: yarn sst deploy --stage production
