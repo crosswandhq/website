@@ -44,10 +44,10 @@ jobs:
         with:
           workload_identity_provider: 'projects/785492788871/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions'
           service_account: 'github-actions-account@crosswand-website-404002.iam.gserviceaccount.com'
-      
+
       - name: Setup opentofu
         uses: opentofu/setup-opentofu@v1
-      
+
       - name: Initialize Tofu
         run: tofu init
 
