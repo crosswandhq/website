@@ -13,5 +13,7 @@ vite.config.ts.timestamp-*
 .sentryclirc
 *.zip
 .sst/
-# Sentry
-.sentryclirc
+# Terraform
+.terraform
+# Secrets
+*.json
