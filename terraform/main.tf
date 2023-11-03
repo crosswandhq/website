@@ -12,8 +12,6 @@ terraform {
 }
 
 provider "google" {
-  credentials = var.GOOGLE_CLOUD_CREDENTIALS
-
   project = "crosswand-website-404002"
   region  = "us-central1"
   zone    = "us-central1-c"
