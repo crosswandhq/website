@@ -3,7 +3,11 @@ name: Deploy to GCP
 on: [push]
 
 jobs:
-  build:
+  build-and-deploy:
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout git repo
@@ -43,6 +47,12 @@ jobs:
       
       - name: Setup opentofu
         uses: opentofu/setup-opentofu@v1
+      
+      - name: Initialize Tofu
+        run: tofu init
+
+      - name: Apply Tofu
+        run: tofu apply -auto-approve
 
       - name: Upload build to GCP Bucket
         uses: 'google-github-actions/upload-cloud-storage@v1'
