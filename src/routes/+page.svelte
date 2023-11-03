@@ -1,5 +1,7 @@
 <script>
 	import { applications } from '$lib/data/data';
+	import HomeImage from '$lib/assets/images/home.jpg';
+	import UserFriendlyAppImage from '$lib/assets/images/user-friendly-app.jpg';
 </script>
 
 <section class="cover overflow-hidden bg-primary inverted">
@@ -24,7 +26,7 @@
 	/>
 	<figure
 		class="background background-dimm"
-		style="background-image: url('https://d2rl869h53lu99.cloudfront.net/images/home.jpg')"
+		style="background-image: url({HomeImage})"
 		data-top-top="transform: translateY(0%);"
 		data-top-bottom="transform: translateY(20%);"
 	/>
@@ -66,7 +68,7 @@
 							</div>
 							<figure
 								class="background background-overlay"
-								style="background-image: url('https://d2rl869h53lu99.cloudfront.net/images/user-friendly-app.jpg')"
+								style="background-image: url({UserFriendlyAppImage})"
 								data-top-top="transform: translateY(0%);"
 								data-top-bottom="transform: translateY(20%);"
 							/>

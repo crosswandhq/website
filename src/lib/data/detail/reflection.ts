@@ -1,12 +1,13 @@
+import MainImage from '$lib/assets/images/applications/reflection/mainScreenshot.jpeg';
+import FeatureImage from '$lib/assets/images/applications/reflection/featureScreenshot.jpg';
+
 export const reflectionDetail = {
 	heading: 'Reflection',
 	subheading:
 		'Say goodbye to generic quotes from long-dead philosophers.\n\nCapture your brilliant ideas and personal insights',
 	url: 'https://reflection.onelink.me/0CE6/vqorecrg',
-	mainScreenshot:
-		'https://d2rl869h53lu99.cloudfront.net/images/applications/reflection/mainScreenshot.jpg',
-	featureScreenshot:
-		'https://d2rl869h53lu99.cloudfront.net/images/applications/reflection/featureScreenshot.jpg',
+	mainScreenshot: MainImage,
+	featureScreenshot: FeatureImage,
 	quote: {
 		author: 'Oxford Dictionary',
 		value: ['Reflection', ': serious thought or consideration'],

@@ -30,7 +30,7 @@
 					<a class="equal-1-1 card card-hover-border" href="/app/{app.key}">
 						<figure
 							class="background background-overlay rounded"
-							style="background-image: url('{app.iconUrl}');"
+							style="background-image: url({app.iconUrl});"
 						/>
 						<div class="card-wrap">
 							<div class="card-footer mt-auto">

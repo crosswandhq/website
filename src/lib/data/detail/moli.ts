@@ -1,11 +1,12 @@
+import MainImage from '$lib/assets/images/applications/moli/mainScreenshot.png';
+import FeatureImage from '$lib/assets/images/applications/moli/featureScreenshot.png';
+
 export const moliDetail = {
 	heading: 'MoLi - Motive List',
 	subheading: 'Motivate. Achieve. Track.',
 	url: 'https://motivelist.onelink.me/F5bn/fh7of2ux',
-	mainScreenshot:
-		'https://d2rl869h53lu99.cloudfront.net/images/applications/moli/mainScreenshot.png',
-	featureScreenshot:
-		'https://d2rl869h53lu99.cloudfront.net/images/applications/moli/featureScreenshot.png',
+	mainScreenshot: MainImage,
+	featureScreenshot: FeatureImage,
 	quote: {
 		author: 'MoLi',
 		value: [

@@ -1,6 +1,8 @@
 import { reflectionPrivacy, moliPrivacy } from '$lib/data/privacy';
 import { reflectionTerms, moliTerms } from '$lib/data/terms';
 import { reflectionDetail, moliDetail } from '$lib/data/detail';
+import MoliIcon from '$lib/assets/images/applications/moli/icon.png';
+import ReflectionIcon from '$lib/assets/images/applications/reflection/icon.png';
 
 const getStoreUrl = (props: { identifer: string; appId: string }) => ({
 	playStore: `https://play.google.com/store/apps/details?id=${props.identifer}`,
@@ -13,8 +15,7 @@ export const applications = {
 		name: 'MoLi',
 		description: 'Motivate. Achieve. Track.',
 		platform: ['ios', 'android'],
-		iconUrl:
-			'https://d2rl869h53lu99.cloudfront.net/images/applications/moli/icon.png',
+		iconUrl: MoliIcon,
 		privacy: moliPrivacy,
 		terms: moliTerms,
 		detail: moliDetail,
@@ -28,8 +29,7 @@ export const applications = {
 		name: 'Reflection',
 		platform: ['ios', 'android'],
 		description: 'Note Reflections',
-		iconUrl:
-			'https://d2rl869h53lu99.cloudfront.net/images/applications/reflection/icon.png',
+		iconUrl: ReflectionIcon,
 		privacy: reflectionPrivacy,
 		terms: reflectionTerms,
 		detail: reflectionDetail,
