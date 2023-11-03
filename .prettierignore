@@ -13,6 +13,10 @@ pnpm-lock.yaml
 package-lock.json
 yarn.lock
 
-
 # Ignore asset files
 /src/lib/assets/**
+/static/**
+
+# Ignore terraform
+*.tfstate
+*.tfstate.backup
