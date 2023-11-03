@@ -50,6 +50,7 @@ jobs:
 
       - name: Initialize Tofu
         run: tofu init
+        working-directory: ./terraform
 
       - name: Apply Tofu
         run: tofu apply -auto-approve
