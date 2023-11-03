@@ -17,8 +17,14 @@ resource "google_storage_bucket" "static_site" {
   }
 }
 
-resource "google_storage_bucket_access_control" "public_rules" {
-  bucket = google_storage_bucket.static_site.name
-  role   = "READER"
-  entity = "allUsers"
+data "google_iam_policy" "public" {
+  binding {
+    role    = "roles/storage.objectViewer"
+    members = ["allUsers"]
+  }
+}
+
+resource "google_storage_bucket_iam_policy" "public_policy" {
+  bucket      = google_storage_bucket.static_site.name
+  policy_data = data.google_iam_policy.public.policy_data
 }
