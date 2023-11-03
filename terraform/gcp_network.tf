@@ -5,7 +5,6 @@ resource "google_compute_global_address" "global_address" {
 
 // DNS
 resource "google_dns_record_set" "root_dns" {
-  provider     = google
   name         = "crosswand.com."
   type         = "A"
   ttl          = 300
@@ -14,7 +13,6 @@ resource "google_dns_record_set" "root_dns" {
 }
 
 resource "google_dns_record_set" "www_dns" {
-  provider     = google
   name         = "www.crosswand.com."
   type         = "A"
   ttl          = 300
