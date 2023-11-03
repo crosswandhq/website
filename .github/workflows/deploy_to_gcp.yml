@@ -1,0 +1,51 @@
+name: Deploy to GCP
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout git repo
+        uses: actions/checkout@v4
+
+      - name: Setup yarn
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.16.0'
+          cache: 'yarn'
+
+      - name: Cache node modules
+        uses: actions/cache@v3
+        id: yarn-cache
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-node-modules-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-node-modules-
+            ${{ runner.os }}-
+
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: yarn install
+
+      - name: Build website
+        run: yarn build
+
+      - name: Setup gcloud
+        uses: google-github-actions/setup-gcloud@v1
+
+      - name: 'Authenticate to Google Cloud'
+        uses: 'google-github-actions/auth@v1'
+        with:
+          workload_identity_provider: 'projects/785492788871/locations/global/workloadIdentityPools/github-actions-pool/providers/github-actions'
+          service_account: 'github-actions-account@crosswand-website-404002.iam.gserviceaccount.com'
+      
+      - name: Setup opentofu
+        uses: opentofu/setup-opentofu@v1
+
+      - name: Upload build to GCP Bucket
+        uses: 'google-github-actions/upload-cloud-storage@v1'
+        with:
+          path: 'build/*'
+          destination: 'crosswand.com'
