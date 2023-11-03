@@ -1,14 +1,12 @@
-<script>
+<script lang="ts">
 	import appstoreLogo from '$lib/assets/images/svg/appstore.svg';
 	import playstoreLogo from '$lib/assets/images/svg/googleplay.svg';
 	import shadow from '$lib/assets/images/svg/shadow.svg';
 	import patternLgLight from '$lib/assets/images/svg/pattern-lg-light.svg';
+	import type { applications } from '$lib/data/data';
 
-	/** @type {import('./$types').PageData} */
-	export let data;
-
-	$: application = data.application;
-	$: detail = data.application.detail;
+	export let data: typeof applications['moli'] ;
+	let detail = data.detail;
 </script>
 
 <section class="overflow-hidden inverted border-bottom bg-black">
@@ -24,16 +22,16 @@
 					{detail.subheading}
 				</p>
 				<div class="row justify-content-center justify-content-lg-start g-1">
-					{#if application.platform.includes('ios')}
+					{#if data.platform.includes('ios')}
 						<div class="col-auto">
-							<a href={detail.url} class="btn btn-red rounded-pill">
+							<a href={data.storeUrl.appStore} target="_blank" class="btn btn-red rounded-pill">
 								<img src={appstoreLogo} alt="App Store" />
 							</a>
 						</div>
 					{/if}
-					{#if application.platform.includes('android')}
+					{#if data.platform.includes('android')}
 						<div class="col-auto">
-							<a href={detail.url} class="btn btn-red rounded-pill">
+							<a href={data.storeUrl.playStore} target="_blank" class="btn btn-red rounded-pill">
 								<img src={playstoreLogo} alt="Google play" />
 							</a>
 						</div>
@@ -134,17 +132,16 @@
 		<div class="row justify-content-center my-auto">
 			<div class="col-lg-8 text-center">
 				<h2 class="mb-5">
-					Ready to start your journey?<br /><br />Download {application
-						.name}
+					Ready to start your journey?<br /><br />Download {data.name}
 				</h2>
 				<div class="row justify-content-center g-1">
 					<div class="col-auto">
-						<a href={detail.url} class="btn btn-red rounded-pill">
+						<a href={data.storeUrl.appStore} target="_blank" class="btn btn-red rounded-pill">
 							<img src={appstoreLogo} alt="App Store" />
 						</a>
 					</div>
 					<div class="col-auto">
-						<a href={detail.url} class="btn btn-red rounded-pill">
+						<a href={data.storeUrl.playStore} target="_blank" class="btn btn-red rounded-pill">
 							<img src={playstoreLogo} alt="Google play" />
 						</a>
 					</div>
