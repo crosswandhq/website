@@ -1,8 +1,13 @@
-import { reflectionPrivacy, moliPrivacy } from '$lib/data/privacy';
-import { reflectionTerms, moliTerms } from '$lib/data/terms';
-import { reflectionDetail, moliDetail } from '$lib/data/detail';
+import {
+	reflectionPrivacy,
+	moliPrivacy,
+	prayerPrivacy,
+} from '$lib/data/privacy';
+import { reflectionTerms, moliTerms, prayerTerms } from '$lib/data/terms';
+import { reflectionDetail, moliDetail, prayerDetail } from '$lib/data/detail';
 import MoliIcon from '$lib/assets/images/applications/moli/icon.png';
 import ReflectionIcon from '$lib/assets/images/applications/reflection/icon.png';
+import PrayerIcon from '$lib/assets/images/applications/prayer/icon.png';
 
 const getStoreUrl = (props: { identifer: string; appId: string }) => ({
 	playStore: `https://play.google.com/store/apps/details?id=${props.identifer}`,
@@ -36,6 +41,20 @@ export const applications = {
 		storeUrl: getStoreUrl({
 			identifer: 'com.crosswand.reflection',
 			appId: 'id6443961419',
+		}),
+	},
+	prayer: {
+		key: 'prayer',
+		name: 'Prayer',
+		platform: ['ios', 'android'],
+		description: 'United in Prayer',
+		iconUrl: PrayerIcon,
+		privacy: prayerPrivacy,
+		terms: prayerTerms,
+		detail: prayerDetail,
+		storeUrl: getStoreUrl({
+			identifer: 'com.crosswand.prayer',
+			appId: 'id6471775802',
 		}),
 	},
 };
