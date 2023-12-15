@@ -46,6 +46,17 @@ We may engage trusted third party service providers to perform functions and pro
 
 We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners and application developers. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the app in a shared location, and type of the device used to visit the app. They may aggregate information about our advertising and what you see on the app and then provide auditing, research and reporting for us and our advertisers.
 
+Who Do We Share the Information With?
+
+To enhance the functionality and security of our service, we share information with specific third-party service providers:
+
+Firebase: Used for messaging and authentication purposes. It helps in managing user sign-ins and delivering messages efficiently.
+
+Mixpanel: Employed for tracking purposes. This aids in understanding user interactions with our app, which is crucial for improving user experience and app performance.
+
+Sentry: Utilized for crash reporting. This service helps us in identifying and resolving app issues promptly, ensuring a stable and reliable user experience.
+
+Each of these providers is selected for their reliability and commitment to user privacy and data security.
 
 Where and when is information collected from customers and end users?
 
