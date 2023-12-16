@@ -50,11 +50,6 @@
 						/>
 					</div>
 				</div>
-				<img
-					class="position-absolute top-50 start-50 translate-middle level-2"
-					src={shadow}
-					alt=""
-				/>
 			</div>
 		</div>
 	</div>
