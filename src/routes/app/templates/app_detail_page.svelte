@@ -1,7 +1,6 @@
 <script lang="ts">
 	import appstoreLogo from '$lib/assets/images/svg/appstore.svg';
 	import playstoreLogo from '$lib/assets/images/svg/googleplay.svg';
-	import shadow from '$lib/assets/images/svg/shadow.svg';
 	import patternLgLight from '$lib/assets/images/svg/pattern-lg-light.svg';
 	import type { applications } from '$lib/data/data';
 
