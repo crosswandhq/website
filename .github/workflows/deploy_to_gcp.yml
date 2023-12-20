@@ -56,6 +56,9 @@ jobs:
         run: tofu apply -auto-approve
         working-directory: ./terraform
 
+      - name: Remove previous build from GCP Bucket
+        run: gsutil rm gs://crosswand.com/**
+
       - name: Upload build to GCP Bucket
         uses: 'google-github-actions/upload-cloud-storage@v1'
         with:
