@@ -3,7 +3,7 @@ name: Check Linting
 on: [push, pull_request]
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout git repo
