@@ -8,7 +8,9 @@
 	<div class="d-flex flex-column min-vh-100 py-20 container foreground">
 		<div class="row justify-content-center my-auto">
 			<div class="col-lg-8 col-xl-6">
-				<h1 class="display-1 mb-1 font-weight-bold" style="font-weight: bold;">Crosswand LLC</h1>
+				<h1 class="display-1 mb-1 font-weight-bold" style="font-weight: bold;">
+					Crosswand LLC
+				</h1>
 				<div class="text-secondary fs-3">
 					<span
 						data-typed={JSON.stringify({

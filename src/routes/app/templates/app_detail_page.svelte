@@ -4,7 +4,7 @@
 	import patternLgLight from '$lib/assets/images/svg/pattern-lg-light.svg';
 	import type { applications } from '$lib/data/data';
 
-	export let data: typeof applications['moli'] ;
+	export let data: (typeof applications)['moli'];
 	let detail = data.detail;
 </script>
 
@@ -23,14 +23,22 @@
 				<div class="row justify-content-center justify-content-lg-start g-1">
 					{#if data.platform.includes('ios')}
 						<div class="col-auto">
-							<a href={data.storeUrl.appStore} target="_blank" class="btn btn-red rounded-pill">
+							<a
+								href={data.storeUrl.appStore}
+								target="_blank"
+								class="btn btn-red rounded-pill"
+							>
 								<img src={appstoreLogo} alt="App Store" />
 							</a>
 						</div>
 					{/if}
 					{#if data.platform.includes('android')}
 						<div class="col-auto">
-							<a href={data.storeUrl.playStore} target="_blank" class="btn btn-red rounded-pill">
+							<a
+								href={data.storeUrl.playStore}
+								target="_blank"
+								class="btn btn-red rounded-pill"
+							>
 								<img src={playstoreLogo} alt="Google play" />
 							</a>
 						</div>
@@ -130,12 +138,20 @@
 				</h2>
 				<div class="row justify-content-center g-1">
 					<div class="col-auto">
-						<a href={data.storeUrl.appStore} target="_blank" class="btn btn-red rounded-pill">
+						<a
+							href={data.storeUrl.appStore}
+							target="_blank"
+							class="btn btn-red rounded-pill"
+						>
 							<img src={appstoreLogo} alt="App Store" />
 						</a>
 					</div>
 					<div class="col-auto">
-						<a href={data.storeUrl.playStore} target="_blank" class="btn btn-red rounded-pill">
+						<a
+							href={data.storeUrl.playStore}
+							target="_blank"
+							class="btn btn-red rounded-pill"
+						>
 							<img src={playstoreLogo} alt="Google play" />
 						</a>
 					</div>

@@ -2,7 +2,7 @@
 	import type { applications } from '$lib/data/data';
 
 	export let heading: string;
-	export let data: typeof applications['reflection']['privacy'];
+	export let data: (typeof applications)['reflection']['privacy'];
 </script>
 
 <section class="py-10 py-xl-15 pb-xl-10">

@@ -18,10 +18,7 @@
 <nav id="mainNav" class="navbar navbar-expand-lg navbar-sticky navbar-dark">
 	<div class="container">
 		<a class="navbar-brand" href="/">
-			<img
-				src={logo}
-				alt="Logo"
-			/>
+			<img src={logo} alt="Logo" />
 		</a>
 		<!-- secondary -->
 		<ul class="navbar-nav navbar-nav-secondary order-lg-3">

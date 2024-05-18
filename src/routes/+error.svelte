@@ -14,9 +14,7 @@
 			<div class="col-md-8 col-lg-5 order-lg-1 text-center text-lg-start">
 				<h1 class="display-2">Sorry, page not found.</h1>
 				<p>{$page.error?.message}</p>
-				<a
-					href="/"
-					class="btn btn-rounded btn-outline-white rounded-pill"
+				<a href="/" class="btn btn-rounded btn-outline-white rounded-pill"
 					>Go back to homepage</a
 				>
 			</div>
