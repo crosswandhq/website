@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { applications } from '$lib/data/data';
 </script>
 
@@ -27,7 +28,10 @@
 		<div id="grid1" class="row mb-10 g-3 g-xl-5" data-isotope="">
 			{#each Object.values(applications) as app}
 				<div class="col-md-6 col-lg-4 {app.platform.join(' ')}">
-					<a class="equal-1-1 card card-hover-border" href="/app/{app.key}">
+					<a
+						class="equal-1-1 card card-hover-border"
+						href="{base}/app/{app.key}"
+					>
 						<figure
 							class="background background-overlay rounded"
 							style="background-image: url({app.iconUrl});"

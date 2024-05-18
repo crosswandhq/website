@@ -2,6 +2,7 @@
 	import { applications } from '$lib/data/data';
 	import HomeImage from '$lib/assets/images/home.jpg';
 	import UserFriendlyAppImage from '$lib/assets/images/user-friendly-app.jpg';
+	import { base } from '$app/paths';
 </script>
 
 <section class="cover overflow-hidden bg-primary inverted">
@@ -40,7 +41,7 @@
 		<div class="row align-items-center justify-content-between">
 			<div class="col-md-10 col-xl-5 mb-5 mb-xl-0">
 				<h2>We create beautiful, functional apps</h2>
-				<a href="/app" class="action underline"
+				<a href="{base}/app" class="action underline"
 					>Discover what we designed<i class="bi bi-arrow-right" /></a
 				>
 			</div>

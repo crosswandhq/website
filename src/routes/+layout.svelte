@@ -2,6 +2,7 @@
 	import { navigating } from '$app/stores';
 	import { applications } from '$lib/data/data';
 	import logo from '$lib/assets/images/logo.png';
+	import { base } from '$app/paths';
 
 	function closeNav() {
 		if (document.body.classList.contains('navbar-active')) {
@@ -17,7 +18,7 @@
 
 <nav id="mainNav" class="navbar navbar-expand-lg navbar-sticky navbar-dark">
 	<div class="container">
-		<a class="navbar-brand" href="/">
+		<a class="navbar-brand" href={base}>
 			<img src={logo} alt="Logo" />
 		</a>
 		<!-- secondary -->
@@ -37,7 +38,7 @@
 				</a>
 			</li>
 			<li class="nav-item d-none d-lg-block">
-				<a class="btn btn-outline-white rounded-pill ms-2" href="/contact"
+				<a class="btn btn-outline-white rounded-pill ms-2" href="{base}/contact"
 					>Contact</a
 				>
 			</li>
@@ -62,7 +63,7 @@
 					>
 						{#each Object.values(applications) as app}
 							<li>
-								<a class="dropdown-item" href="/app/{app.key}">
+								<a class="dropdown-item" href="{base}/app/{app.key}">
 									<span>
 										<img src={app.iconUrl} class="bi" alt="Icon" />
 										{app.name}
@@ -72,7 +73,7 @@
 							</li>
 						{/each}
 						<li>
-							<a class="dropdown-item" href="/app">
+							<a class="dropdown-item" href="{base}/app">
 								<span>
 									<i class="bi bi-app" />
 									All Apps
@@ -83,7 +84,7 @@
 					</ul>
 				</li>
 				<li class="nav-item d-lg-none">
-					<a class="nav-link text-primary" href="/contact">Contact</a>
+					<a class="nav-link text-primary" href="{base}/contact">Contact</a>
 				</li>
 			</ul>
 		</div>
