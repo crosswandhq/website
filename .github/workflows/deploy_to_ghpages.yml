@@ -11,6 +11,9 @@ jobs:
       pages: write
       id-token: write
 
+    environment:
+      name: github-pages
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout git repo
