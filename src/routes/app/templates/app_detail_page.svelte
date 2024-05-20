@@ -138,22 +138,26 @@
 				</h2>
 				<div class="row justify-content-center g-1">
 					<div class="col-auto">
-						<a
-							href={data.storeUrl.appStore}
-							target="_blank"
-							class="btn btn-red rounded-pill"
-						>
-							<img src={appstoreLogo} alt="App Store" />
-						</a>
+						{#if data.platform.includes('ios') || data.platform.includes('xros')}
+							<a
+								href={data.storeUrl.appStore}
+								target="_blank"
+								class="btn btn-red rounded-pill"
+							>
+								<img src={appstoreLogo} alt="App Store" />
+							</a>
+						{/if}
 					</div>
 					<div class="col-auto">
-						<a
-							href={data.storeUrl.playStore}
-							target="_blank"
-							class="btn btn-red rounded-pill"
-						>
-							<img src={playstoreLogo} alt="Google play" />
-						</a>
+						{#if data.platform.includes('android')}
+							<a
+								href={data.storeUrl.playStore}
+								target="_blank"
+								class="btn btn-red rounded-pill"
+							>
+								<img src={playstoreLogo} alt="Google play" />
+							</a>
+						{/if}
 					</div>
 				</div>
 			</div>

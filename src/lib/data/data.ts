@@ -2,15 +2,29 @@ import {
 	reflectionPrivacy,
 	moliPrivacy,
 	prayerPrivacy,
+	intimePrivacy,
 } from '$lib/data/privacy';
-import { reflectionTerms, moliTerms, prayerTerms } from '$lib/data/terms';
-import { reflectionDetail, moliDetail, prayerDetail } from '$lib/data/detail';
+import {
+	reflectionTerms,
+	moliTerms,
+	prayerTerms,
+	intimeTerms,
+} from '$lib/data/terms';
+import {
+	reflectionDetail,
+	moliDetail,
+	prayerDetail,
+	intimeDetail,
+} from '$lib/data/detail';
 import MoliIcon from '$lib/assets/images/applications/moli/icon.png';
 import ReflectionIcon from '$lib/assets/images/applications/reflection/icon.png';
 import PrayerIcon from '$lib/assets/images/applications/prayer/icon.png';
+import IntimeIcon from '$lib/assets/images/applications/intime/icon.png';
 
-const getStoreUrl = (props: { identifer: string; appId: string }) => ({
-	playStore: `https://play.google.com/store/apps/details?id=${props.identifer}`,
+const getStoreUrl = (props: { identifer?: string; appId: string }) => ({
+	playStore: props.identifer
+		? `https://play.google.com/store/apps/details?id=${props.identifer}`
+		: null,
 	appStore: `https://apps.apple.com/app/${props.appId}`,
 });
 
@@ -55,6 +69,19 @@ export const applications = {
 		storeUrl: getStoreUrl({
 			identifer: 'com.crosswand.prayer',
 			appId: 'id6471775802',
+		}),
+	},
+	intime: {
+		key: 'intime',
+		name: 'In Time',
+		platform: ['xros'],
+		description: 'Conquer your time',
+		iconUrl: IntimeIcon,
+		privacy: intimePrivacy,
+		terms: intimeTerms,
+		detail: intimeDetail,
+		storeUrl: getStoreUrl({
+			appId: 'id6502642828',
 		}),
 	},
 };

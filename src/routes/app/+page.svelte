@@ -16,6 +16,11 @@
 			>
 			<button
 				class="btn btn-filter rounded-pill"
+				data-filter=".xros"
+				data-target="#grid1">visionOS</button
+			>
+			<button
+				class="btn btn-filter rounded-pill"
 				data-filter=".ios"
 				data-target="#grid1">iOS</button
 			>
