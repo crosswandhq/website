@@ -3,23 +3,27 @@ import {
 	moliPrivacy,
 	prayerPrivacy,
 	intimePrivacy,
+	biblePrivacy,
 } from '$lib/data/privacy';
 import {
 	reflectionTerms,
 	moliTerms,
 	prayerTerms,
 	intimeTerms,
+	bibleTerms,
 } from '$lib/data/terms';
 import {
 	reflectionDetail,
 	moliDetail,
 	prayerDetail,
 	intimeDetail,
+	bibleDetail,
 } from '$lib/data/detail';
 import MoliIcon from '$lib/assets/images/applications/moli/icon.png';
 import ReflectionIcon from '$lib/assets/images/applications/reflection/icon.png';
 import PrayerIcon from '$lib/assets/images/applications/prayer/icon.png';
 import IntimeIcon from '$lib/assets/images/applications/intime/icon.png';
+import BibleIcon from '$lib/assets/images/applications/bible/icon.png';
 
 const getStoreUrl = (props: { identifer?: string; appId: string }) => ({
 	playStore: props.identifer
@@ -82,6 +86,19 @@ export const applications = {
 		detail: intimeDetail,
 		storeUrl: getStoreUrl({
 			appId: 'id6502642828',
+		}),
+	},
+	bible: {
+		key: 'bible',
+		name: 'Bible',
+		platform: ['xros'],
+		description: 'Learn who God is',
+		iconUrl: BibleIcon,
+		privacy: biblePrivacy,
+		terms: bibleTerms,
+		detail: bibleDetail,
+		storeUrl: getStoreUrl({
+			appId: 'id6503010302',
 		}),
 	},
 };
