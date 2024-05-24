@@ -791,7 +791,117 @@ Contact Us
 Don't hesitate to contact us if you have any questions.
 
 -Via this Link: https://www.crosswand.com/contact
-`,n=`Terms & Conditions
+`,n=`Privacy Policy
+
+Updated at 2023-06-01
+
+Bible (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Bible.
+
+This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Bible. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+
+What Information Do We Collect?
+
+We collect information when you visit, register, or post a Bible on our app. The information collected includes:
+
+-Name / Username / Email
+
+We also collect information from mobile devices for a authentication and account management purpose.
+
+-Photo Gallery (Pictures): Granting photo gallery access allows the user to upload any picture from their photo gallery, you can safely deny photo gallery access for this app.
+
+-Device ID: We collection device id for an analytics purpose and to provide a better user experience.
+
+How Do We Use The Information We Collect?
+
+Any of the information we collect from you may be used in one of the following ways:
+
+-To personalize your experience (your information helps us to better respond to your individual needs)
+
+-To improve our app (we continually strive to improve our app offerings based on the information and feedback we receive from you)
+
+-For app functionality
+
+When does Bible use end user information from third parties?
+
+Bible will collect End User Data necessary to provide the Bible services to our customers.
+
+End users may voluntarily provide us with information they have made available on social media websites. If you provide us with any such information, we may collect publicly available information from the social media websites you have indicated. You can control how much of your information social media websites make public by visiting these websites and changing your privacy settings.
+
+When does Bible use customer information from third parties?
+
+We receive some information from the third parties when you contact us. For example, when you submit your email address to us to show interest in becoming a Bible customer, we receive information from a third party that provides automated fraud detection services to Bible. We also occasionally collect information that is made publicly available on social media websites. You can control how much of your information social media websites make public by visiting these websites and changing your privacy settings.
+
+Do we share the information we collect with third parties?
+
+We never share data for advertisements or any other monetization purpose.
+
+We may engage trusted third party service providers to perform functions and provide services to us, such as hosting and maintaining our servers and the app, database storage and management, e-mail management, storage marketing,  and app functionality. We will likely share your personal information, and possibly some non-personal information, with these third parties to enable them to perform these services for us and for you.
+
+We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners and application developers. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the app in a shared location, and type of the device used to visit the app. They may aggregate information about our advertising and what you see on the app and then provide auditing, research and reporting for us and our advertisers.
+
+Who Do We Share the Information With?
+
+To enhance the functionality and security of our service, we share information with specific third-party service providers:
+
+Firebase: Used for messaging and authentication purposes. It helps in managing user sign-ins and delivering messages efficiently.
+
+Mixpanel: Employed for tracking purposes. This aids in understanding user interactions with our app, which is crucial for improving user experience and app performance.
+
+Sentry: Utilized for crash reporting. This service helps us in identifying and resolving app issues promptly, ensuring a stable and reliable user experience.
+
+Each of these providers is selected for their reliability and commitment to user privacy and data security.
+
+Where and when is information collected from customers and end users?
+
+Bible will collect personal information that you submit to us. We may also receive personal information about you from third parties as described above.
+
+How Long Do We Keep Your Information?
+
+We keep your information only so long as we need it to provide Bible to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+
+How Do We Protect Your Information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to Bible or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.
+
+Could my information be transferred to other countries?
+
+Bible is incorporated in United States. Information collected via our website, through direct interactions with you, or from use of our help services may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using any of the above, you voluntarily consent to the trans-border transfer and hosting of such information.
+
+Is the information collected through the Bible Service secure?
+
+We take precautions to protect the security of your information. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. However, neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. If applicable law imposes any non-disclaimable duty to protect your personal information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
+
+The laws of United States, excluding its conflicts of law rules, shall govern this Agreement and your use of the app. Your use of the app may also be subject to other local, state, national, or international laws.
+
+By using Bible or contacting us directly, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you should not engage with our website, or use our services. Continued use of the website, direct engagement with us, or following the posting of changes to this Privacy Policy that do not significantly affect the use or disclosure of your personal information will mean that you accept those changes.
+
+Your Consent
+
+We've updated our Privacy Policy to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, registering an account, or making a purchase, you hereby consent to our Privacy Policy and agree to its terms.
+
+Links to Other Websites
+
+This Privacy Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by Bible. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the Services to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our platform, is subject to that website’s own rules and policies. Such third parties may use their own cookies or other methods to collect information about you.
+
+Changes To Our Privacy Policy
+
+We may change our Service and policies, and we may need to make changes to this Privacy Policy so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to this Privacy Policy and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Privacy Policy. If you do not want to agree to this or any updated Privacy Policy, you can delete your account.
+
+Third-Party Services
+
+We may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services ("Third- Party Services").
+
+You acknowledge and agree that Bible shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. Bible does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.
+
+Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.
+
+
+Contact Us
+
+Don't hesitate to contact us if you have any questions.
+
+-Via this Link: https://www.crosswand.com/contact
+`,s=`Terms & Conditions
 
 Updated at 2023-02-25
 
@@ -1005,7 +1115,7 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
--Via this Link: https://www.crosswand.com/contact`,s=`Terms & Conditions
+-Via this Link: https://www.crosswand.com/contact`,c=`Terms & Conditions
 
 Updated at 2023-02-25
 
@@ -1219,7 +1329,7 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
--Via this Link: https://www.crosswand.com/contact`,c=`Terms & Conditions
+-Via this Link: https://www.crosswand.com/contact`,l=`Terms & Conditions
 
 Updated at 2023-02-25
 
@@ -1433,7 +1543,7 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
--Via this Link: https://www.crosswand.com/contact`,l=`Terms & Conditions
+-Via this Link: https://www.crosswand.com/contact`,d=`Terms & Conditions
 
 Updated at 2024-05-19
 
@@ -1647,6 +1757,220 @@ Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
--Via this Link: https://www.crosswand.com/contact`,d=""+new URL("../assets/mainScreenshot.BggkWZNT.jpeg",import.meta.url).href,h=""+new URL("../assets/featureScreenshot.BiwWJ7rK.jpg",import.meta.url).href,u={heading:"Reflection",subheading:`Say goodbye to generic quotes from long-dead philosophers.
+-Via this Link: https://www.crosswand.com/contact`,h=`Terms & Conditions
 
-Capture your brilliant ideas and personal insights`,url:"https://reflection.onelink.me/0CE6/vqorecrg",mainScreenshot:d,featureScreenshot:h,quote:{author:"Oxford Dictionary",value:["Reflection",": serious thought or consideration"]},features:{heading:"Embrace your inner philosopher.",value:[["Your Reflection:","Write and note your own reflections and insights learned."],["Seize the Moment:","Capture where, when, and how you acquired each valuable lesson."],["Make it yours:","Customize your reflections with your own photos and a variety of fonts and colors."],["Share your thoughts:","Share your thoughtful reflections with friends, family, and colleagues through social networks."]]}},y=""+new URL("../assets/mainScreenshot.CR3eArck.png",import.meta.url).href,p=""+new URL("../assets/featureScreenshot.CjixoO1P.png",import.meta.url).href,m={heading:"MoLi - Motive List",subheading:"Motivate. Achieve. Track.",url:"https://motivelist.onelink.me/F5bn/fh7of2ux",mainScreenshot:y,featureScreenshot:p,quote:{author:"MoLi",value:["Beyond incomplete","Embrace the four dynamic states of canceled, incomplete, in progress, and completed."]},features:{heading:"Embrace the power of simplicity.",value:[["One-Page Awesomeness:","Experience the ultimate simplicity of a to-do list app that keeps things streamlined and efficient."],["Motivational Quotes:","Stay inspired and motivated with daily doses of uplifting quotes to fuel your productivity."],["Track like a boss:","Track your progress like a boss and witness the timeline of your accomplishments."],["MoLi's Lab:","Unleash your productivity potential by exploring experimental features."]]}},f=""+new URL("../assets/mainScreenshot.CNOwRbcJ.png",import.meta.url).href,g=""+new URL("../assets/featureScreenshot.CYx2l4Mt.png",import.meta.url).href,b={heading:"Prayer",subheading:"Embracing Faith Together: Fostering a Community of Believers United in Prayer, Reflection, and a Deeper Connection with Jesus",url:"",mainScreenshot:f,featureScreenshot:g,quote:{author:"Matthew 21:22",value:["Bible","If you believe, you will receive whatever you ask for in prayer."]},features:{heading:"Get United in Prayer",value:[["Share your prayer","Share your prayers and uplift others with your words"],["Pray for others","Create a chain of compassion and empathy"],["Get connected with others","Experience the power of group prayer and witness the miracle"],["Divine connection","Deepens your relationship with Jesus"]]}},v=""+new URL("../assets/mainScreenshot.C9YWlJXB.png",import.meta.url).href,w=""+new URL("../assets/featureScreenshot.C12FL_As.png",import.meta.url).href,T={heading:"In Time",subheading:"Conquer Your Time: Maximize productivity by tracking every second of your work.",url:"",mainScreenshot:v,featureScreenshot:w,quote:{author:"Matthew 21:22",value:["You can track your time more efficiently with a spatially adapted design.","In Time"]},features:{heading:"Maximize Productivity",value:[["Track Your Work Time","Use the timer or stopwatch to monitor the time you spend on tasks."],["Manage Your Breaks","Keep track of your break time to ensure a balanced workday."],["Detailed Statistics","View beautifully designed stats to analyze your attention span and average time spent on tasks."],["Improve Productivity","Gain insights into your work habits to enhance your focus and efficiency."]]}},P=""+new URL("../assets/icon.Dsda0vCG.png",import.meta.url).href,k=""+new URL("../assets/icon.CH5cRnjE.png",import.meta.url).href,I=""+new URL("../assets/icon.DUiJ2wJA.png",import.meta.url).href,S=""+new URL("../assets/icon.SWC21smI.png",import.meta.url).href,e=o=>({playStore:o.identifer?`https://play.google.com/store/apps/details?id=${o.identifer}`:null,appStore:`https://apps.apple.com/app/${o.appId}`}),A={moli:{key:"moli",name:"MoLi",description:"Motivate. Achieve. Track.",platform:["ios","android"],iconUrl:P,privacy:i,terms:s,detail:m,storeUrl:e({identifer:"com.crosswand.motivelist",appId:"id1636091291"})},reflection:{key:"reflection",name:"Reflection",platform:["ios","android"],description:"Note Reflections",iconUrl:k,privacy:t,terms:n,detail:u,storeUrl:e({identifer:"com.crosswand.reflection",appId:"id6443961419"})},prayer:{key:"prayer",name:"Prayer",platform:["ios","android"],description:"United in Prayer",iconUrl:I,privacy:r,terms:c,detail:b,storeUrl:e({identifer:"com.crosswand.prayer",appId:"id6471775802"})},intime:{key:"intime",name:"In Time",platform:["xros"],description:"Conquer your time",iconUrl:S,privacy:a,terms:l,detail:T,storeUrl:e({appId:"id6502642828"})}};export{A as a};
+Updated at 2023-02-25
+
+General Terms
+
+By accessing and placing an order with Bible, you confirm that you are in agreement with and bound by the terms of service contained in the Terms & Conditions outlined below. These terms apply to the entire website and any email or other type of communication between you and Bible.
+
+Under no circumstances shall Bible team be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if Bible team or an authorized representative has been advised of the possibility of such damages. If your use of materials from this site results in the need for servicing, repair or correction of equipment or data, you assume any costs thereof.
+
+Bible will not be responsible for any outcome that may occur during the course of usage of our resources. We reserve the rights to change prices and revise the resources usage policy in any moment.
+
+License
+
+Bible grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use the app strictly in accordance with the terms of this Agreement.
+
+These Terms & Conditions are a contract between you and Bible (referred to in these Terms & Conditions as "Bible", "us", "we" or "our"), the provider of the Bible website and the services accessible from the Bible website (which are collectively referred to in these Terms & Conditions as the "Bible Service").
+
+You are agreeing to be bound by these Terms & Conditions. If you do not agree to these Terms & Conditions, please do not use the Bible Service. In these Terms & Conditions, "you" refers both to you as an individual and to the entity you represent. If you violate any of these Terms & Conditions, we reserve the right to cancel your account or block access to your account without notice.
+
+Meanings
+
+For this Terms & Conditions:
+
+-Cookie: small amount of data generated by a website and saved by your web browser. It is used to identify your browser, provide analytics, remember information about you such as your language preference or login information.
+
+-Company: when this policy mentions “Company,” “we,” “us,” or “our,” it refers to Crosswand LLC, (1922 Walnut Street 404 unit Berkeley, CA 94704) that is responsible for your information under this Terms & Conditions.
+
+-Country: where Bible or the owners/founders of Bible are based, in this case is United States
+
+-Device: any internet connected device such as a phone, tablet, computer or any other device that can be used to visit Bible and use the services.
+
+-Service: refers to the service provided by Bible as described in the relative terms (if available) and on this platform.
+
+-Third-party service: refers to advertisers, contest sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may interest you.
+
+-Website: Bible."’s" site, which can be accessed via this URL:
+
+-You: a person or entity that is registered with Bible to use the Services.
+
+Restrictions
+
+You agree not to, and you will not permit others to:
+
+-License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the app or make the platform available to any third party.
+
+-Modify, make derivative works of, disassemble, decrypt, reverse compile or reverse engineer any part of the app.
+
+-Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of Bible or its affiliates, partners, suppliers or the licensors of the app.
+
+Return and Refund Policy
+
+Thanks for shopping at Bible. We appreciate the fact that you like to buy the stuff we build. We also want to make sure you have a rewarding experience while you’re exploring, evaluating, and purchasing our products.
+
+As with any shopping experience, there are terms and conditions that apply to transactions at Bible. We’ll be as brief as our attorneys will allow. The main thing to remember is that by placing an order or making a purchase at Bible, you agree to the terms along with Bible."’s" Privacy Policy.
+
+If, for any reason, You are not completely satisfied with any good or service that we provide, don't hesitate to contact us and we will discuss any of the issues you are going through with our product.
+
+Your Suggestions
+
+Any feedback, comments, ideas, improvements or suggestions (collectively, "Suggestions") provided by you to Bible with respect to the app shall remain the sole and exclusive property of Bible.
+
+Bible shall be free to use, copy, modify, publish, or redistribute the Suggestions for any purpose and in any way without any credit or any compensation to you.
+
+Your Consent
+
+We've updated our Terms & Conditions to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our app, registering an account, or making a purchase, you hereby consent to our Terms & Conditions.
+
+Links to Other Websites
+
+This Terms & Conditions applies only to the Services. The Services may contain links to other websites not operated or controlled by Bible. We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by us. Please remember that when you use a link to go from the Services to another website, our Terms & Conditions are no longer in effect. Your browsing and interaction on any other website, including those that have a link on our platform, is subject to that website’s own rules and policies. Such third parties may use their own cookies or other methods to collect information about you.
+
+Cookies
+
+Bible uses "Cookies" to identify the areas of our website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to enhance the performance and functionality of our app but are non-essential to their use. However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit the app as we would not be able to remember that you had logged in previously. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our website correctly or at all. We never place Personally Identifiable Information in Cookies.
+
+Changes To Our Terms & Conditions
+
+You acknowledge and agree that <?=Bible;?> may stop (permanently or temporarily) providing the Service (or any features within the Service) to you or to users generally at <?=Bible;?>’s sole discretion, without prior notice to you. You may stop using the Service at any time. You do not need to specifically inform <?=Bible;?> when you stop using the Service. You acknowledge and agree that if <?=Bible;?> disables access to your account, you may be prevented from accessing the Service, your account details or any files or other materials which is contained in your account.
+
+If we decide to change our Terms & Conditions, we will post those changes on this page, and/or update the Terms & Conditions modification date below.
+
+Modifications to Our app
+
+Bible reserves the right to modify, suspend or discontinue, temporarily or permanently, the app or any service to which it connects, with or without notice and without liability to you.
+
+Updates to Our app
+
+Bible may from time to time provide enhancements or improvements to the features/ functionality of the app, which may include patches, bug fixes, updates, upgrades and other modifications ("Updates").
+
+Updates may modify or delete certain features and/or functionalities of the app. You agree that Bible has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the app to you.
+
+You further agree that all Updates will be (i) deemed to constitute an integral part of the app, and (ii) subject to the terms and conditions of this Agreement.
+
+Third-Party Services
+
+We may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services ("Third- Party Services").
+
+You acknowledge and agree that Bible shall not be responsible for any Third-Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. Bible does not assume and shall not have any liability or responsibility to you or any other person or entity for any Third-Party Services.
+
+Third-Party Services and links thereto are provided solely as a convenience to you and you access and use them entirely at your own risk and subject to such third parties' terms and conditions.
+
+Term and Termination
+
+This Agreement shall remain in effect until terminated by you or Bible.
+
+Bible may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from Bible, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the app and all copies thereof from your computer.
+
+Upon termination of this Agreement, you shall cease all use of the app and delete all copies of the app from your computer.
+
+Termination of this Agreement will not limit any of Bible's rights or remedies at law or in equity in case of breach by you (during the term of this Agreement) of any of your obligations under the present Agreement.
+
+Copyright Infringement Notice
+
+If you are a copyright owner or such owner’s agent and believe any material on our app constitutes an infringement on your copyright, please contact us setting forth the following information: (a) a physical or electronic signature of the copyright owner or a person authorized to act on his behalf; (b) identification of the material that is claimed to be infringing; (c) your contact information, including your address, telephone number, and an email; (d) a statement by you that you have a good faith belief that use of the material is not authorized by the copyright owners; and (e) the a statement that the information in the notification is accurate, and, under penalty of perjury you are authorized to act on behalf of the owner.
+
+Indemnification
+
+You agree to indemnify and hold Bible and its parents, subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) harmless from any claim or demand, including reasonable attorneys' fees, due to or arising out of your: (a) use of the app; (b) violation of this Agreement or any law or regulation; or (c) violation of any right of a third party.
+
+No Warranties
+
+The app is provided to you "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, Bible, on its own behalf and on behalf of its affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the app, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, Bible provides no warranty or undertaking, and makes no representation of any kind that the app will meet your requirements, achieve any intended results, be compatible or work with any other software, , systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+
+Without limiting the foregoing, neither Bible nor any Bible's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the app, or the information, content, and materials or products included thereon; (ii) that the app will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the app; or (iv) that the app, its servers, the content, or e-mails sent from or on behalf of Bible are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+
+Some jurisdictions do not allow the exclusion of or limitations on implied warranties or the limitations on the applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to you.
+
+Limitation of Liability
+
+Notwithstanding any damages that you might incur, the entire liability of Bible and any of its suppliers under any provision of this Agreement and your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by you for the app.
+
+To the maximum extent permitted by applicable law, in no event shall Bible or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, for loss of data or other information, for business interruption, for personal injury, for loss of privacy arising out of or in any way related to the use of or inability to use the app, third-party software and/or third-party hardware used with the app, or otherwise in connection with any provision of this Agreement), even if Bible or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+
+Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+Severability
+
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+This Agreement, together with the Privacy Policy and any other legal notices published by Bible on the Services, shall constitute the entire agreement between you and Bible concerning the Services. If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect. No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Bible."’s" failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision. YOU AND Bible AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+Waiver
+
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Agreement shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute waiver of any subsequent breach.
+
+No failure to exercise, and no delay in exercising, on the part of either party, any right or any power under this Agreement shall operate as a waiver of that right or power. Nor shall any single or partial exercise of any right or power under this Agreement preclude further exercise of that or any other right granted herein. In the event of a conflict between this Agreement and any applicable purchase or other terms, the terms of this Agreement shall govern.
+
+Amendments to this Agreement
+
+Bible reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+By continuing to access or use our app after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use Bible.
+
+Entire Agreement
+
+The Agreement constitutes the entire agreement between you and Bible regarding your use of the app and supersedes all prior and contemporaneous written or oral agreements between you and Bible.
+
+You may be subject to additional terms and conditions that apply when you use or purchase other Bible's services, which Bible will provide to you at the time of such use or purchase.
+
+Updates to Our Terms
+
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account.
+
+Intellectual Property
+
+The app and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by Bible, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. The material may not be copied, modified, reproduced, downloaded or distributed in any way, in whole or in part, without the express prior written permission of Bible, unless and except as is expressly provided in these Terms & Conditions. Any unauthorized use of the material is prohibited.
+
+Agreement to Arbitrate
+
+This section applies to any dispute EXCEPT IT DOESN’T INCLUDE A DISPUTE RELATING TO CLAIMS FOR INJUNCTIVE OR EQUITABLE RELIEF REGARDING THE ENFORCEMENT OR VALIDITY OF YOUR OR Bible."’s" INTELLECTUAL PROPERTY RIGHTS. The term “dispute” means any dispute, action, or other controversy between you and Bible concerning the Services or this agreement, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis. “Dispute” will be given the broadest possible meaning allowable under law.
+
+Notice of Dispute
+
+In the event of a dispute, you or Bible must give the other a Notice of Dispute, which is a written statement that sets forth the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute via email to: . Bible will send any Notice of Dispute to you by mail to your address if we have it, or otherwise to your email address. You and Bible will attempt to resolve any dispute through informal negotiation within sixty (60) days from the date the Notice of Dispute is sent. After sixty (60) days, you or Bible may commence arbitration.
+
+Binding Arbitration
+
+If you and Bible don’t resolve any dispute by informal negotiation, any other effort to resolve the dispute will be conducted exclusively by binding arbitration as described in this section. You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury. The dispute shall be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association. Either party may seek any interim or preliminary injunctive relief from any court of competent jurisdiction, as necessary to protect the party’s rights or property pending the completion of arbitration. Any and all legal, accounting, and other costs, fees, and expenses incurred by the prevailing party shall be borne by the non-prevailing party.
+
+Submissions and Privacy
+
+In the event that you submit or post any ideas, creative suggestions, designs, photographs, information, advertisements, data or proposals, including ideas for new or improved products, services, features, technologies or promotions, you expressly agree that such submissions will automatically be treated as non-confidential and non-proprietary and will become the sole property of Bible without any compensation or credit to you whatsoever. Bible and its affiliates shall have no obligations with respect to such submissions or posts and may use the ideas contained in such submissions or posts for any purposes in any medium in perpetuity, including, but not limited to, developing, manufacturing, and marketing products and services using such ideas.
+
+Promotions
+
+Bible may, from time to time, include contests, promotions, sweepstakes, or other activities (“Promotions”) that require you to submit material or information concerning yourself. Please note that all Promotions may be governed by separate rules that may contain certain eligibility requirements, such as restrictions as to age and geographic location. You are responsible to read all Promotions rules to determine whether or not you are eligible to participate. If you enter any Promotion, you agree to abide by and to comply with all Promotions Rules.
+
+Additional terms and conditions may apply to purchases of goods or services on or through the Services, which terms and conditions are made a part of this Agreement by this reference.
+
+Typographical Errors
+
+In the event a product and/or service is listed at an incorrect price or with incorrect information due to typographical error, we shall have the right to refuse or cancel any orders placed for the product and/or service listed at the incorrect price. We shall have the right to refuse or cancel any such order whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account or other payment account in the amount of the charge.
+
+Miscellaneous
+
+If for any reason a court of competent jurisdiction finds any provision or portion of these Terms & Conditions to be unenforceable, the remainder of these Terms & Conditions will continue in full force and effect. Any waiver of any provision of these Terms & Conditions will be effective only if in writing and signed by an authorized representative of Bible. Bible will be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety) in the event of any breach or anticipatory breach by you. Bible operates and controls the Bible Service from its offices in United States. The Service is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation. Accordingly, those persons who choose to access the Bible Service from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. These Terms & Conditions (which include and incorporate the Bible Privacy Policy) contains the entire understanding, and supersedes all prior understandings, between you and Bible concerning its subject matter, and cannot be changed or modified by you. The section headings used in this Agreement are for convenience only and will not be given any legal import.
+
+Disclaimer
+
+Bible is not responsible for any content, code or any other imprecision.
+
+Bible does not provide warranties or guarantees.
+
+In no event shall Bible be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. Bible reserves the right to make additions, deletions, or modifications to the contents on the Service at any time without prior notice.
+
+The Bible Service and its contents are provided "as is" and "as available" without any warranty or representations of any kind, whether express or implied. Bible is a distributor and not a publisher of the content supplied by third parties; as such, Bible exercises no editorial control over such content and makes no warranty or representation as to the accuracy, reliability or currency of any information, content, service or merchandise provided through or accessible via the Bible Service. Without limiting the foregoing, Bible specifically disclaims all warranties and representations in any content transmitted on or in connection with the Bible Service or on sites that may appear as links on the Bible Service, or in the products provided as a part of, or otherwise in connection with, the Bible Service, including without limitation any warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. No oral advice or written information given by Bible or any of its affiliates, employees, officers, directors, agents, or the like will create a warranty. Price and availability information is subject to change without notice. Without limiting the foregoing, Bible does not warrant that the Bible Service will be uninterrupted, uncorrupted, timely, or error-free.
+
+Contact Us
+
+Don't hesitate to contact us if you have any questions.
+
+-Via this Link: https://www.crosswand.com/contact`,u=""+new URL("../assets/mainScreenshot.BggkWZNT.jpeg",import.meta.url).href,y=""+new URL("../assets/featureScreenshot.BiwWJ7rK.jpg",import.meta.url).href,p={heading:"Reflection",subheading:`Say goodbye to generic quotes from long-dead philosophers.
+
+Capture your brilliant ideas and personal insights`,url:"https://reflection.onelink.me/0CE6/vqorecrg",mainScreenshot:u,featureScreenshot:y,quote:{author:"Oxford Dictionary",value:["Reflection",": serious thought or consideration"]},features:{heading:"Embrace your inner philosopher.",value:[["Your Reflection:","Write and note your own reflections and insights learned."],["Seize the Moment:","Capture where, when, and how you acquired each valuable lesson."],["Make it yours:","Customize your reflections with your own photos and a variety of fonts and colors."],["Share your thoughts:","Share your thoughtful reflections with friends, family, and colleagues through social networks."]]}},m=""+new URL("../assets/mainScreenshot.CR3eArck.png",import.meta.url).href,f=""+new URL("../assets/featureScreenshot.CjixoO1P.png",import.meta.url).href,g={heading:"MoLi - Motive List",subheading:"Motivate. Achieve. Track.",url:"https://motivelist.onelink.me/F5bn/fh7of2ux",mainScreenshot:m,featureScreenshot:f,quote:{author:"MoLi",value:["Beyond incomplete","Embrace the four dynamic states of canceled, incomplete, in progress, and completed."]},features:{heading:"Embrace the power of simplicity.",value:[["One-Page Awesomeness:","Experience the ultimate simplicity of a to-do list app that keeps things streamlined and efficient."],["Motivational Quotes:","Stay inspired and motivated with daily doses of uplifting quotes to fuel your productivity."],["Track like a boss:","Track your progress like a boss and witness the timeline of your accomplishments."],["MoLi's Lab:","Unleash your productivity potential by exploring experimental features."]]}},b=""+new URL("../assets/mainScreenshot.CNOwRbcJ.png",import.meta.url).href,v=""+new URL("../assets/featureScreenshot.CYx2l4Mt.png",import.meta.url).href,w={heading:"Prayer",subheading:"Embracing Faith Together: Fostering a Community of Believers United in Prayer, Reflection, and a Deeper Connection with Jesus",url:"",mainScreenshot:b,featureScreenshot:v,quote:{author:"Matthew 21:22",value:["Bible","If you believe, you will receive whatever you ask for in prayer."]},features:{heading:"Get United in Prayer",value:[["Share your prayer","Share your prayers and uplift others with your words"],["Pray for others","Create a chain of compassion and empathy"],["Get connected with others","Experience the power of group prayer and witness the miracle"],["Divine connection","Deepens your relationship with Jesus"]]}},T=""+new URL("../assets/mainScreenshot.C9YWlJXB.png",import.meta.url).href,k=""+new URL("../assets/featureScreenshot.C12FL_As.png",import.meta.url).href,P={heading:"In Time",subheading:"Conquer Your Time: Maximize productivity by tracking every second of your work.",url:"",mainScreenshot:T,featureScreenshot:k,quote:{author:"Matthew 21:22",value:["You can track your time more efficiently with a spatially adapted design.","In Time"]},features:{heading:"Maximize Productivity",value:[["Track Your Work Time","Use the timer or stopwatch to monitor the time you spend on tasks."],["Manage Your Breaks","Keep track of your break time to ensure a balanced workday."],["Detailed Statistics","View beautifully designed stats to analyze your attention span and average time spent on tasks."],["Improve Productivity","Gain insights into your work habits to enhance your focus and efficiency."]]}},I=""+new URL("../assets/mainScreenshot.CDrkNgW6.png",import.meta.url).href,S=""+new URL("../assets/featureScreenshot.CQIgQILV.png",import.meta.url).href,A={heading:"Bible",subheading:"Learn who God is.",url:"",mainScreenshot:I,featureScreenshot:S,quote:{author:"Joshua 1:8",value:["Bible","Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful."]},features:{heading:"Experience the Wisdom of God's Word",value:[["Daily Bread","Receive daily verses to nourish your soul and strengthen your faith."],["Divine Connection","Deepen your relationship with Jesus through immersive Bible study."],["Share Insights","Share your reflections and insights with a supportive community."],["Interactive Study Tools","Utilize tools like bookmarks, highlights, and notes to enhance your study."]]}},C=""+new URL("../assets/icon.Dsda0vCG.png",import.meta.url).href,W=""+new URL("../assets/icon.CH5cRnjE.png",import.meta.url).href,R=""+new URL("../assets/icon.DUiJ2wJA.png",import.meta.url).href,L=""+new URL("../assets/icon.SWC21smI.png",import.meta.url).href,x=""+new URL("../assets/icon.DTx1E24O.png",import.meta.url).href,e=o=>({playStore:o.identifer?`https://play.google.com/store/apps/details?id=${o.identifer}`:null,appStore:`https://apps.apple.com/app/${o.appId}`}),E={moli:{key:"moli",name:"MoLi",description:"Motivate. Achieve. Track.",platform:["ios","android"],iconUrl:C,privacy:i,terms:c,detail:g,storeUrl:e({identifer:"com.crosswand.motivelist",appId:"id1636091291"})},reflection:{key:"reflection",name:"Reflection",platform:["ios","android"],description:"Note Reflections",iconUrl:W,privacy:t,terms:s,detail:p,storeUrl:e({identifer:"com.crosswand.reflection",appId:"id6443961419"})},prayer:{key:"prayer",name:"Prayer",platform:["ios","android"],description:"United in Prayer",iconUrl:R,privacy:r,terms:l,detail:w,storeUrl:e({identifer:"com.crosswand.prayer",appId:"id6471775802"})},intime:{key:"intime",name:"In Time",platform:["xros"],description:"Conquer your time",iconUrl:L,privacy:a,terms:d,detail:P,storeUrl:e({appId:"id6502642828"})},bible:{key:"bible",name:"Bible",platform:["xros"],description:"Learn who God is",iconUrl:x,privacy:n,terms:h,detail:A,storeUrl:e({appId:"id6503010302"})}};export{E as a};
